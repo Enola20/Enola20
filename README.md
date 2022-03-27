@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Enola20
+- 👀 I’m interested in security systems and data science.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on some beginners projects until I'm fit for more.
+- 📫 How to reach me: boudribila.kawtar2002@gmail.com
+- 
